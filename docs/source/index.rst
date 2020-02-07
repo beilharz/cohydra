@@ -14,7 +14,7 @@ Contents:
     installation
     getting-started
     sumo
-    modules
+    api
 
 Indices and tables
 ==================
